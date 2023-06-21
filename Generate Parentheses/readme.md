@@ -1,27 +1,31 @@
 Generate Parentheses
 
-https://leetcode.com/problems/generate-parentheses/description/
+https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1
 
-Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+Given an integer N representing the number of pairs of parentheses, the task is to generate all combinations of well-formed(balanced) parentheses.
 
- 
 
 Example 1:
 
-Input: n = 3
-Output: ["((()))","(()())","(())()","()(())","()()()"]
+Input:
+N = 3
+Output:
+((()))
+(()())
+(())()
+()(())
+()()()
 Example 2:
+Input:
+N = 1
+Output:
+()
 
-Input: n = 1
-Output: ["()"]
- 
+Your Task:  
+You don't need to read input or print anything. Complete the function AllParenthesis() which takes N as input parameter and returns the list of balanced parenthesis.
+
+Expected Time Complexity: O(2N * N).
+Expected Auxiliary Space: O(2*N*X), X = Number of valid Parenthesis.
 
 Constraints:
-
-1 <= n <= 8
-Accepted
-1.4M
-Submissions
-2M
-Acceptance Rate
-72.8%
+1 ≤ N ≤ 12
