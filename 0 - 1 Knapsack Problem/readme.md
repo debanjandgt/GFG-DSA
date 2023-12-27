@@ -7,6 +7,7 @@ In other words, given two integer arrays val[0..N-1] and wt[0..N-1] which repres
 
 Example 1:
 
+
 Input:
 N = 3
 
