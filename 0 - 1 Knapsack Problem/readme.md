@@ -22,6 +22,7 @@ Example 2:
 Input:
 N = 3
 W = 3
+
 values[] = {1,2,3}
 weight[] = {4,5,6}
 Output: 0
