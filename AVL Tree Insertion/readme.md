@@ -9,6 +9,7 @@ Given an AVL tree and N values to be inserted in the tree. Write a function to i
 Note:
 The tree will be checked after each insertion. 
 If it violates the properties of balanced BST, an error message will be printed followed by the inorder traversal of the tree at that moment.
+
 If instead all insertions are successful, inorder traversal of the tree will be printed.
 
 Example 1:
