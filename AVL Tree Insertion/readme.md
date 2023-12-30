@@ -10,6 +10,7 @@ Note:
 The tree will be checked after each insertion. 
 If it violates the properties of balanced BST, an error message will be printed followed by the inorder traversal of the tree at that moment.
 
+
 If instead all insertions are successful, inorder traversal of the tree will be printed.
 
 Example 1:
