@@ -5,6 +5,7 @@ https://www.geeksforgeeks.org/problems/avl-tree-insertion/1
 
 Given an AVL tree and N values to be inserted in the tree. Write a function to insert elements into the given AVL tree.
 
+
 Note:
 The tree will be checked after each insertion. 
 If it violates the properties of balanced BST, an error message will be printed followed by the inorder traversal of the tree at that moment.
