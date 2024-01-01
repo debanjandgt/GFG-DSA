@@ -15,6 +15,8 @@ If the strings are anagrams you have to return True or else return False
 
 Example 1:
 
+
+
 Input:a = geeksforgeeks, b = forgeeksgeeks
 Output: YES
 Explanation: Both the string have same characters with
