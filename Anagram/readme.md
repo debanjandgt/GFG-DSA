@@ -18,6 +18,7 @@ Example 1:
 
 
 Input:a = geeksforgeeks, b = forgeeksgeeks
+
 Output: YES
 Explanation: Both the string have same characters with
         same frequency. So, both are anagrams.
