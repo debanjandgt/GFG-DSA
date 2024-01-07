@@ -6,6 +6,7 @@ Given a sorted dictionary of an alien language having N words and k starting alp
 Note: Many orders may be possible for a particular test case, thus you may return any valid order and output will be 1 if the order of string returned by the function is correct else 0 denoting incorrect string returned.
  
 
+
 Example 1:
 
 Input: 
