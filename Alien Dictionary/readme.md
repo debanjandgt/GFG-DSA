@@ -11,6 +11,7 @@ Note: Many orders may be possible for a particular test case, thus you may retur
 
 Example 1:
 
+
 Input: 
 N = 5, K = 4
 dict = {"baa","abcd","abca","cab","cad"}
