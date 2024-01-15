@@ -11,6 +11,7 @@ Example 1:
 
 
 Input: 
+
 n = 3
 arr[] = {1, 2, 1}
 Output: 
