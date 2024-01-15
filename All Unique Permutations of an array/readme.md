@@ -7,6 +7,7 @@ Given an array arr[] of length n. Find all possible unique permutations of the a
 
 Example 1:
 
+
 Input: 
 n = 3
 arr[] = {1, 2, 1}
