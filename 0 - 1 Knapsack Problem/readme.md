@@ -29,6 +29,7 @@ values[] = {1,2,3}
 weight[] = {4,5,1}
 
 Output: 3
+
 Example 2:
 
 Input:
