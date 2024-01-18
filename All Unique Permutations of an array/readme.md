@@ -20,6 +20,7 @@ Output:
 1 2 1
 2 1 1
 Explanation:
+
 These are the only possible unique permutations
 for the given array.
 Example 2:
