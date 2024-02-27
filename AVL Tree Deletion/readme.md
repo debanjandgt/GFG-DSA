@@ -11,6 +11,7 @@ passed one by one as input data by driver code itself, you are asked to return t
 
 Example 1:
 
+
 Tree = 
 
 
