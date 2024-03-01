@@ -8,6 +8,7 @@ Note: The output will be 1 if the index returned by your function is correct; ot
 
 Example 1:
 
+
 Input: 
 n = 3
 arr[] = {1, 2, 3}
