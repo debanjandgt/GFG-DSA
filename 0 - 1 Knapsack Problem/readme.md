@@ -13,6 +13,7 @@ https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/0
 
 
 
+
 You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.
 
 
