@@ -28,6 +28,7 @@ Example 1:
 Input:
 
 
+
 N = 3
 
 
