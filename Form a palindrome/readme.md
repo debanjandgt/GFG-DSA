@@ -2,6 +2,7 @@ Form a palindrome
 
 https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1
 
+
 Given a string, find the minimum number of characters to be inserted to convert it to a palindrome.
 
 Examples :
