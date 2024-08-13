@@ -8,6 +8,7 @@ Given an array arr and target sum k, check whether there exists a subsequence su
 
 Example:
 
+
 Input:  arr = [10,1,2,7,6,1,5], k = 8.
 Output:  Yes
 Explanation:  Subsequences like [2, 6], [1, 7] sum upto 8
