@@ -1,5 +1,6 @@
 Kth Smallest
 
+
 https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
 
 Given an array arr[] and an integer k where k is smaller than the size of the array, the task is to find the kth smallest element in the given array. It is given that all array elements are distinct.
