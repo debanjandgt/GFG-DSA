@@ -10,6 +10,7 @@ Example 1:
 
 Input:
 
+
 N = 4, K = 6
 arr[] = {1, 5, 7, 1}
 Output: 2
