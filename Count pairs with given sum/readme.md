@@ -13,6 +13,7 @@ Input:
 
 N = 4, K = 6
 arr[] = {1, 5, 7, 1}
+
 Output: 2
 Explanation: 
 arr[0] + arr[1] = 1 + 5 = 6 
