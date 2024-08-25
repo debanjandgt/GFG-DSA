@@ -6,6 +6,7 @@ https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
 
 Given two Binary Trees. Check whether they are Isomorphic or not.
 
+
 Note: 
 Two trees are called isomorphic if one can be obtained from another by a series of flips, i.e. by swapping left and right children of several nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.
 For example, the following two trees are isomorphic with the following sub-trees flipped: 2 and 3, NULL and 6, 7 and 8.
