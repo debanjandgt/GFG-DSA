@@ -1,6 +1,7 @@
 Check if there exists a subsequence with sum K
 
 
+
 https://practice.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/0
 
 Given an array arr and target sum k, check whether there exists a subsequence such that the sum of all elements in the subsequence equals the given target sum(k).
