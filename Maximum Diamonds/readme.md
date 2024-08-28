@@ -10,6 +10,7 @@ There are N bags with diamonds in them. The i'th of these bags contains A[i] dia
 Example 1:
 
 
+
 Input:
 N = 5, K = 3
 A[] = {2, 1, 7, 4, 2}
